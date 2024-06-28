@@ -1,0 +1,16 @@
+{
+  "name": "acme-client-dns",
+  "version": "1.0.0",
+  "description": "Acme dns 01 challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acme-client": "^5.3.1",
+    "dotenv": "^16.4.5"
+  }
+}
